@@ -1,0 +1,21 @@
+.landing-container {
+  background-image: url('../assets/background.jpeg');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.overlay {
+  background-color: rgba(0,0,0,0.6);
+  padding: 40px;
+  color: white;
+  text-align: center;
+}
+.get-started-btn {
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}

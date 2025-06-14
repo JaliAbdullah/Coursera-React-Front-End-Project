@@ -1,0 +1,22 @@
+.cart-page {
+  padding: 20px;
+}
+.cart-item {
+  display: flex;
+  gap: 15px;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+.cart-item img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.cart-actions {
+  margin-top: 20px;
+}
+.cart-actions button,
+.cart-actions a {
+  margin-right: 10px;
+  padding: 8px 12px;
+}

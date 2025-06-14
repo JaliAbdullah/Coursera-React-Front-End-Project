@@ -1,0 +1,77 @@
+.product-listing {
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+.product-listing h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.categories {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.plant-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 25px;
+  justify-items: center;
+}
+
+.plant-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 12px;
+  background-color: #fff;
+  transition: box-shadow 0.3s ease;
+  width: 100%;
+  max-width: 300px;
+}
+
+.plant-card:hover {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.plant-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.plant-card h3 {
+  margin: 10px 0 5px;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.plant-card p {
+  font-weight: bold;
+  color: #4caf50;
+  margin-bottom: 10px;
+}
+
+.plant-card button {
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.plant-card button:hover:enabled {
+  background-color: #45a049;
+}
+
+.plant-card button:disabled {
+  background-color: #aaa;
+  cursor: not-allowed;
+}
