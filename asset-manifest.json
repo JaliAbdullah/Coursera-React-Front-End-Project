@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/houseplant-shop/static/css/main.ddef0542.css",
+    "main.js": "/houseplant-shop/static/js/main.03467141.js",
+    "static/media/background.jpeg": "/houseplant-shop/static/media/background.88de509e8fc5e4eed18f.jpeg",
+    "static/media/snake.jpg": "/houseplant-shop/static/media/snake.9655117e1293fb1b136c.jpg",
+    "static/media/Aloe-Vera-Plant.jpg": "/houseplant-shop/static/media/Aloe-Vera-Plant.d6a0d05774d1aa8e3eb1.jpg",
+    "static/media/Fiddle Leaf Fig.jpg": "/houseplant-shop/static/media/Fiddle Leaf Fig.2882a9d047243ed302d9.jpg",
+    "static/media/monstera.jpg": "/houseplant-shop/static/media/monstera.a8af2eb65e7fba47df3d.jpg",
+    "static/media/zzplant.jpg": "/houseplant-shop/static/media/zzplant.abb12d2f48dd6aed9519.jpg",
+    "static/media/jade.jpg": "/houseplant-shop/static/media/jade.a405bd759ec52407392d.jpg",
+    "index.html": "/houseplant-shop/index.html",
+    "main.ddef0542.css.map": "/houseplant-shop/static/css/main.ddef0542.css.map",
+    "main.03467141.js.map": "/houseplant-shop/static/js/main.03467141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddef0542.css",
+    "static/js/main.03467141.js"
+  ]
+}
