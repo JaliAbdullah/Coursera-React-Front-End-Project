@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Coursera-React-Front-End-Project/static/css/main.a5428b32.css",
-    "main.js": "/Coursera-React-Front-End-Project/static/js/main.391b29b4.js",
+    "main.js": "/Coursera-React-Front-End-Project/static/js/main.0a8d286d.js",
     "static/media/background.jpeg": "/Coursera-React-Front-End-Project/static/media/background.88de509e8fc5e4eed18f.jpeg",
     "static/media/snake.jpg": "/Coursera-React-Front-End-Project/static/media/snake.9655117e1293fb1b136c.jpg",
     "static/media/Aloe-Vera-Plant.jpg": "/Coursera-React-Front-End-Project/static/media/Aloe-Vera-Plant.d6a0d05774d1aa8e3eb1.jpg",
@@ -11,10 +11,10 @@
     "static/media/jade.jpg": "/Coursera-React-Front-End-Project/static/media/jade.a405bd759ec52407392d.jpg",
     "index.html": "/Coursera-React-Front-End-Project/index.html",
     "main.a5428b32.css.map": "/Coursera-React-Front-End-Project/static/css/main.a5428b32.css.map",
-    "main.391b29b4.js.map": "/Coursera-React-Front-End-Project/static/js/main.391b29b4.js.map"
+    "main.0a8d286d.js.map": "/Coursera-React-Front-End-Project/static/js/main.0a8d286d.js.map"
   },
   "entrypoints": [
     "static/css/main.a5428b32.css",
-    "static/js/main.391b29b4.js"
+    "static/js/main.0a8d286d.js"
   ]
 }
